@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Project\\POVERTY_PREDICTION\\POVERTY_PREDICTION\\poverty-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "G:\\Project\\POVERTY_PREDICTION\\POVERTY_PREDICTION\\poverty-0.001-2conv-basic.model"
